@@ -5,7 +5,7 @@ An interactive web application that helps users understand their personal carbon
 **Live Demo**: [URL](netify)
 
 
-### Why Carbon Footprints?
+### Why Carbon Footprints
 
 Climate change is one of the most pressing challenges of our time, yet most people have no intuitive sense of their personal contribution to the problem—or what actions would actually make a difference. This calculator bridges that gap by translating abstract emissions data into concrete, personalized numbers.
 
@@ -94,7 +94,7 @@ Dynamic text feedback based on where the user's footprint falls:
 ## How the Calculations Work
 
 ### Transportation
-
+```
 Car emissions = (miles/week) × 52 × (emission factor by vehicle type)
 
 Emission factors (tons CO₂/mile):
@@ -111,6 +111,7 @@ Transit emissions = (miles/week) × 52 × 0.00018 tons/mile
 ```
 
 ### Home Energy
+
 ```
 Home emissions = (electricity + heating + water heater) × size multiplier / √(people)
 
@@ -138,7 +139,7 @@ Size multipliers:
 Per-capita adjustment: Divide by √(household size)
 - Accounts for shared infrastructure
 - 2 people ≠ 2× emissions
-
+```
 ### Food
 ```
 Food emissions = (beef + other meat + dairy + baseline) × waste multiplier
