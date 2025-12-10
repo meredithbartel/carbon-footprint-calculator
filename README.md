@@ -38,8 +38,8 @@ Many carbon calculators suffer from:
 ---
 
 ## Sketches
-#Created in figma
-<img width="942" height="792" alt="image" src="https://github.com/user-attachments/assets/1d3ff4c8-6ec3-4c2e-a2ae-4bafc65e93d7" />
+Created in figma
+<img width="742" height="592" alt="image" src="https://github.com/user-attachments/assets/1d3ff4c8-6ec3-4c2e-a2ae-4bafc65e93d7" />
 
 ### My Approach
 
