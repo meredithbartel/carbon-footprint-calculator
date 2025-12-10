@@ -59,6 +59,24 @@ This calculator prioritizes:
 2. **Literature review** of emission factors from peer-reviewed sources
 3. **User interviews** to understand mental models around carbon emissions
 
+## User Feedback & Iterations
+
+### Testing Round 1 
+
+| Feedback | Change Made |
+|----------|-------------|
+| "What does 'mixed grid' mean?" | Added clearer option labels with descriptions |
+| "I want to see what changed" | Numbers update in real-time as you type |
+
+### Testing Round 2 
+
+| Feedback | Change Made |
+|----------|-------------|
+| "I don't eat beef but I eat chicken" | Split into "beef meals" and "other meat meals" |
+| "Where did you get these numbers?" | Added source links below each section |
+| "What's a sustainable target?" | Added labels to comparison scale benchmarks |
+
+
 ## Features
 
 ### Interactive Inputs
