@@ -35,6 +35,11 @@ Many carbon calculators suffer from:
 3. **No breakdown**: Not showing which behaviors contribute most
 4. **Outdated data**: Using emission factors from decades ago
 5. **Poor UX**: Clunky multi-page forms instead of real-time feedback
+---
+
+## Sketches
+#Created in figma
+<img width="942" height="792" alt="image" src="https://github.com/user-attachments/assets/1d3ff4c8-6ec3-4c2e-a2ae-4bafc65e93d7" />
 
 ### My Approach
 
