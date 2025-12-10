@@ -23,6 +23,8 @@ Most people dramatically misunderstand what matters for reducing their environme
 - **Underestimated impact**: Flying, beef consumption, home heating
 
 A 2020 study found that people consistently underestimate the carbon footprint of high-impact activities like air travel by a factor of 2-10x, while overestimating the impact of low-impact activities.
+### What does a ton of CO2 look like?
+<img width="720" height="536" alt="image" src="https://github.com/user-attachments/assets/be63d249-f07d-4ed1-bfdd-141e97a0c16d" />
 
 ### Existing Solutions Fall Short
 
