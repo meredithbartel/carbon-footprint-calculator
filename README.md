@@ -99,7 +99,7 @@ Dynamic text feedback based on where the user's footprint falls:
 ##Color Scheme
 <img width="1378" height="260" alt="image" src="https://github.com/user-attachments/assets/677c21c8-2f7c-4b98-9051-000db0164d53" />
 Not very many reasons for the color scheme
-##Quick  Stats section
+## Quick  Stats section
 <img width="1328" height="175" alt="image" src="https://github.com/user-attachments/assets/398029a5-5c01-4c11-a649-3b746e6b1986" />
 
 ---
