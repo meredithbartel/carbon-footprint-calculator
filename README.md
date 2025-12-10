@@ -7,7 +7,7 @@ An interactive web application that helps users understand their personal carbon
 
 ### Why Carbon Footprints
 
-Climate change is one of the most pressing challenges of our time, yet most people have no intuitive sense of their personal contribution to the problem—or what actions would actually make a difference. This calculator bridges that gap by translating abstract emissions data into concrete, personalized numbers.
+Climate change is one of the most pressing challenges of our time, yet most people have no intuitive sense of their personal contribution to the problem or what actions would actually make a difference. This calculator bridges that gap by translating abstract emissions data into concrete, personalized numbers.
 
 
 
