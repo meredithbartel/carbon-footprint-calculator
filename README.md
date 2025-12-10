@@ -38,7 +38,6 @@ Many carbon calculators suffer from:
 ---
 
 ## Sketches
-Created in figma
 <img width="742" height="592" alt="image" src="https://github.com/user-attachments/assets/1d3ff4c8-6ec3-4c2e-a2ae-4bafc65e93d7" />
 
 ### My Approach
@@ -97,6 +96,11 @@ Dynamic text feedback based on where the user's footprint falls:
 - 2-4t: "Below global average, above sustainable target"
 - 4-16t: "Below US average, above global average"
 - Above 16t: "Above US average"
+##Color Scheme
+<img width="1378" height="260" alt="image" src="https://github.com/user-attachments/assets/677c21c8-2f7c-4b98-9051-000db0164d53" />
+Not very many reasons for the color scheme
+##Quick  Stats section
+<img width="1328" height="175" alt="image" src="https://github.com/user-attachments/assets/398029a5-5c01-4c11-a649-3b746e6b1986" />
 
 ---
 
@@ -227,6 +231,17 @@ All emission factors are derived from peer-reviewed research and government data
 | Sustainable target | 2 tons/person/year | [IPCC 1.5°C Report](https://www.ipcc.ch/sr15/) |
 | Global average | 4 tons/person/year | [Our World in Data](https://ourworldindata.org/co2-emissions) |
 | US average | 16 tons/person/year | [Our World in Data](https://ourworldindata.org/co2-emissions) |
+## Future Improvements
+
+### Additional Input Categories
+
+| Category | Inputs to Add | Why |
+|----------|---------------|-----|
+| **Water Usage** | Shower length, lawn watering, pool | Water heating and treatment have significant emissions |
+| **Electronics** | Phone/laptop replacements per year | E-waste and manufacturing footprint |
+| **Clothing** | New clothing purchases per month | Fast fashion is a major emissions source |
+| **Streaming** | Hours of video streaming per day | Data centers have growing energy demands |
+| **Pet Ownership** | Type and size of pets | Pet food (especially for dogs/cats) has notable impact |
 
 ## Screenshots
 
