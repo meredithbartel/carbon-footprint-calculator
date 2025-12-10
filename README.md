@@ -223,4 +223,7 @@ All emission factors are derived from peer-reviewed research and government data
 | Global average | 4 tons/person/year | [Our World in Data](https://ourworldindata.org/co2-emissions) |
 | US average | 16 tons/person/year | [Our World in Data](https://ourworldindata.org/co2-emissions) |
 
+## Screenshots
 
+### Full Interface
+<img width="673" height="826" alt="image" src="https://github.com/user-attachments/assets/4a43668c-3a09-45f8-a437-509178593a85" />
