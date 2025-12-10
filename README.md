@@ -3,7 +3,7 @@
 An interactive web application that helps users understand their personal carbon emissions through lifestyle inputs and real-time visual feedback. Built to make climate impact tangible, comparable, and actionable.
 
 **Live Site**: https://carbon-footprint-calculator-meredith.netlify.app/
-**Live Demo**https://www.loom.com/share/caf3a499862140439543af069e687286
+**Live Demo**: https://www.loom.com/share/caf3a499862140439543af069e687286
 
 ### Why Carbon Footprints
 
